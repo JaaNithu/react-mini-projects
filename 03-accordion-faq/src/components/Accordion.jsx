@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState } from "react";
 import faq from "../API/faq.json";
 import { FAQ } from "./UI/FAQ";
